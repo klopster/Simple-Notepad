@@ -1,6 +1,6 @@
 # Simple Notepad
 
-A lightweight, offline-first notebook app for Android. Designed for quick daily notes without any cloud dependency — everything is stored locally on the device in JSON format, so it's fast and works without an internet connection.
+A lightweight, offline notebook app for Android. Designed for quick daily notes without any cloud dependency — everything is stored locally on the device in JSON format, so it's fast and works without an internet connection.
 
 ## Features
 
